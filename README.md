@@ -4,7 +4,7 @@
 
 - 20
 - Been coding for a fair few years
-- Trying to avoid being a part of the enshitification of software
+- Trying to avoid being a part of the enshittification of software
   
 ___
 
