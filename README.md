@@ -11,7 +11,7 @@ ___
 
 
 - FluentMaterialEx
-  An extension of Material2 which aims to make creating a decent looking windows forms app even quicker than it is now.
+  - An extension of Material2 which aims to make creating a decent looking windows forms app even quicker than it is now.
 <!--
 **luke-Har/luke-Har** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
